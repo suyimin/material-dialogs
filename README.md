@@ -1,5 +1,7 @@
 # Material Dialogs
 
+A copy of https://github.com/afollestad/material-dialogs.
+
 [ ![Core](https://api.bintray.com/packages/drummer-aidan/maven/material-dialogs%3Acore/images/download.svg) ](https://bintray.com/drummer-aidan/maven/material-dialogs%3Acore/_latestVersion)
 [ ![Commons](https://api.bintray.com/packages/drummer-aidan/maven/material-dialogs%3Acommons/images/download.svg) ](https://bintray.com/drummer-aidan/maven/material-dialogs%3Acommons/_latestVersion)
 [![Build Status](https://travis-ci.org/afollestad/material-dialogs.svg)](https://travis-ci.org/afollestad/material-dialogs)
